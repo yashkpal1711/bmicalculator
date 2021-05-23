@@ -1,0 +1,72 @@
+.heading{
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.heading h1{
+    font-weight: 400;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.cal-container{
+
+    background-image: linear-gradient(to bottom, rgb(216, 213,  213),rgb(167, 167, 167));
+    margin: auto;
+    width: 45%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: 2rem;
+    box-shadow: 3px 5px rgb(114, 114, 114);
+    border-radius: 20px;
+}
+
+
+.labell{
+    padding: 1rem;
+    margin: 2rem 0;
+}
+
+
+.cal-container input{
+    padding: 1rem;
+    margin: 2rem 0;
+    border-radius: 10px;
+}
+
+.btn{
+    padding: 10px;
+    background-color: #rgb(107, 93, 93);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.danger{
+    color: red;
+}
+
+.yellow{
+    background-image: linear-gradient(to right bottom, rgb(255, 255, 53) , rgb(255, 255, 15));
+}
+
+.yellowLight{
+    background-image: linear-gradient(to  bottom, rgb(255, 253, 128) , rgb(187, 187, 76));
+}
+
+.red{
+    background-image: linear-gradient(to right bottom, rgb(255, 53, 53) , rgb(255, 15, 15));
+
+}
+.redLight{
+    background-image: linear-gradient(to  bottom, rgb(255, 128, 128) , rgb(187, 76, 76));
+}
+
+.green{
+    background-image: linear-gradient(to  bottom, rgb(161, 255, 53) ,rgb(35, 255, 15));
+
+}
+
+.greenLight{
+    background-image: linear-gradient(to  bottom, rgb(153, 255, 128) , rgb(102, 187, 76));
+}
